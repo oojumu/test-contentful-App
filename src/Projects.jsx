@@ -23,9 +23,9 @@ const Projects = () => {
                     <h2>Projects</h2>
                 </div>
 
-                    <div className='title-underline'>
-                        
-                    </div>
+                <div className='title-underline'>
+                    
+                </div>
 
                 <div className='projects-center'>
                 {projects.map((project) => {
